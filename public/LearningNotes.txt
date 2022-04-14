@@ -8,6 +8,6 @@ Assert
 
 
 Type of Functions in screen object: 
-Get - Throw an error
-Find - returns a promise
+Get - Throw an error immediately 
+Find - returns a promise - Async Requests 
 Query - donot throw an error 
