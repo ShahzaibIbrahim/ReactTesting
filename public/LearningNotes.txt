@@ -1,0 +1,13 @@
+Jest Tool
+
+Testing Steps - AAA : 
+
+Arrange
+Act 
+Assert
+
+
+Type of Functions in screen object: 
+Get - Throw an error
+Find - returns a promise
+Query - donot throw an error 
